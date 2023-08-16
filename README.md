@@ -4,7 +4,7 @@
 > to add a normal user with sudo privileges, because that is the type of user as
 > which I normally connect to servers with Ansible.
 
-[![CI](https://github.com/geoffreyvanwyk/docker-ubuntu2004-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/geoffreyvanwyk/docker-ubuntu2004-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/geoffreyvanwyk/docker-ubuntu2004-ansible)](https://hub.docker.com/r/geoffreyvanwyk/docker-ubuntu2004-ansible/)
+[![Build](https://github.com/geoffreyvanwyk/docker-ubuntu2004-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/geoffreyvanwyk/docker-ubuntu2004-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/geoffreyvanwyk/docker-ubuntu2004-ansible)](https://hub.docker.com/r/geoffreyvanwyk/docker-ubuntu2004-ansible/)
 
 Ubuntu 20.04 LTS (Focal Fossa) Docker container for Ansible playbook and role testing.
 
